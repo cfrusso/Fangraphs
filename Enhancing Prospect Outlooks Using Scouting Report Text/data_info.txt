@@ -1,0 +1,5 @@
+'prospects_2014_2020.xlsx' contains player information and ratings for MLB team top prospects by year from 2014-2020.
+
+The data was manually collected from MLB.com's prospect archives.
+
+Note that some data (from 2020) may have changed since the date of collection (March 9, 2021).
